@@ -1,0 +1,93 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section {
+    min-height: 100vh;
+    text-align: center;
+    padding: 20% 2rem;
+}
+
+.section:nth-child(even) {
+    color: #dd9c4c;
+    background-color: #12436e;
+  
+}
+
+.section:nth-child(odd) {
+    color: #12436e;
+    background-color: #8ca6bd;
+
+}
+
+h1 { 
+    font-size: 250%;
+    font-weight: 600;
+    margin: 1rem 0;
+}
+
+h2 {
+    margin: 3rem;
+}
+
+h3 {
+    font-size: 130%;
+}
+
+li {
+    text-align: left;
+    margin: 1rem;
+}
+
+p {
+    font-size: 14px;
+}
+
+.logos {
+    margin-bottom: 0.5rem;
+}
+
+.estilo-texto > p, h3 {
+    text-align: left;  
+}
+
+.sobre-nos {
+    text-align: left;
+    margin: 1rem;
+}
+
+.nome-relato {
+    margin-bottom: 0;
+}
+
+.profissao-relato {
+    margin-top: 0;
+    font-size: 12px;
+}
+
+/* .img-perfis {
+    margin-top: 1rem;
+} */
+
+.img-perfis > img {
+    margin: 2rem 0.5rem;
+}
+
+iframe {
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.footer {
+    color: #dd9c4c;
+    background-color: #12436e;
+    padding: 1px;
+    
+}
+
+.footer > div {
+    font-size: 10px;
+    text-align: right;
+    margin: 0.5rem;
+
+}
