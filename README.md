@@ -1,4 +1,4 @@
-# homepage-imobiliaria
+# Homepage Imobiliária
 
 Pagina inicial de uma imobiliária fictícia para o trabalho 01 da disciplina de Desenvolvimento Web 2023.2
 
