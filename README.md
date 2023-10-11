@@ -4,4 +4,4 @@ Pagina inicial de uma imobiliária fictícia para o trabalho 01 da disciplina de
 
 Feita utilizando HTML, CSS e Bootstrap
 
-Por Raissa Parente e Caio Levy
+Por Raissa Parente e [Caio Levy](https://github.com/caiolevy2803)
